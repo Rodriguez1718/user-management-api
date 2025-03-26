@@ -6,7 +6,7 @@ The CRUD (Create, Read, Update, Delete) features of the API are intended for use
 # II. Setup Instructions
 
 1. After the repository is created and provided by the leader, run this command in your terminal.
-    -> "git clone [text](https://github.com/Rodriguez1718/user-management-api)"
+    -> "git clone (https://github.com/Rodriguez1718/user-management-api)"
 2. Install all dependencies needed.
     -> "npm i @types/express dotenv express mysql12 reflect-metadata typeorm"
     -> npm i --save-dev @typesnode typescript ts-node
